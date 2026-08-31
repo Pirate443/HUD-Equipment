@@ -1,0 +1,42 @@
+		The Elder Scrolls III MorrowinD
+--------------------------------------------------------------
+HUD Equipment
+--------------------------------------------------------------
+Version 1.0
+Author: Pirate
+Nexusmods: 
+Fullrest: 
+Tesall: 
+--------------------------------------------------------------
+			Description:
+This mod adds additional settings for equipment slots.
+Features of the mod:
+- Charge bar for enchanted weapons. The code is taken from the mod "HUD Weapon Charge" by Virnetch and modified so that the slot does not shift vertically when switching between enchanted and ordinary weapons.
+- The size of the magic slot has been adjusted for convenient configuration via "HUD Customizer" by Sephumbra - now you can set the same vertical values for the weapon and magic slots and they will always be on the same line.
+- The color of the magic slot charge bar can be switched to blue to match other magic indicators.
+- Slot size adjustment.
+- Slot background opacity adjustment.
+- Show/hide the background for enchanted item icons.
+- Show/hide and adjust the position of effect icons for enchanted items.
+--------------------------------------------------------------
+			Credits:
+Virnetch is the author of the "HUD Weapon Charge" mod.
+--------------------------------------------------------------
+			Recommended mods:
+HUD Equipped Light
+QuickKeys Hotbar Extended
+Seph's HUD Customizer
+--------------------------------------------------------------
+			Requirements:
+Morrowind
+Tribunal
+Bloodmoon
+Morrowind Code Patch
+MGE XE 0.17.0 + (Run MWSE-update.exe)
+--------------------------------------------------------------
+			Installation:
+Copy the "Data Files" to your game folder or use a mod manager.
+----------------------------------------------------------------
+			Changelogs:
+Version 1.0
+- Initial Release.
